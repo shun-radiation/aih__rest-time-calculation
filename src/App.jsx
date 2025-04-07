@@ -9,9 +9,9 @@ import DuplicationOff from './components/suggestTime/DuplicationOff';
 import DisplayResult from './components/outputResult/DisplayResult';
 
 function App() {
-  const [radiographerA, setRadiographerA] = useState('aaa');
-  const [radiographerB, setRadiographerB] = useState('bbb');
-  const [radiographerC, setRadiographerC] = useState('ccc');
+  const [radiographerA, setRadiographerA] = useState('');
+  const [radiographerB, setRadiographerB] = useState('');
+  const [radiographerC, setRadiographerC] = useState('');
   const [startTimeValue, setStartTimeValue] = useState('21:00');
   const [finishTimeValue, setFinishTimeValue] = useState('07:00');
   const [duplicationState, setDuplicationState] = useState(true);
