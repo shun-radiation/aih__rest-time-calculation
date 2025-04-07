@@ -174,7 +174,7 @@ const DuplicationOn = ({
         onClick={() => setBreakTimePairs(selectedPair)}
         disabled={selectedPair.length === 0}
       >
-        決定
+        ⬇️⬇️ 休憩順番の抽選！⬇️⬇️
       </button>
 
       {/* {duplicationTime}
