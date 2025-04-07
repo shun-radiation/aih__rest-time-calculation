@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/aih__rest-time-calculation/static/css/main.1d47363b.css",
-    "main.js": "/aih__rest-time-calculation/static/js/main.651e2a38.js",
+    "main.css": "/aih__rest-time-calculation/static/css/main.73ff0091.css",
+    "main.js": "/aih__rest-time-calculation/static/js/main.f7b4df16.js",
     "index.html": "/aih__rest-time-calculation/index.html",
-    "main.1d47363b.css.map": "/aih__rest-time-calculation/static/css/main.1d47363b.css.map",
-    "main.651e2a38.js.map": "/aih__rest-time-calculation/static/js/main.651e2a38.js.map"
+    "main.73ff0091.css.map": "/aih__rest-time-calculation/static/css/main.73ff0091.css.map",
+    "main.f7b4df16.js.map": "/aih__rest-time-calculation/static/js/main.f7b4df16.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d47363b.css",
-    "static/js/main.651e2a38.js"
+    "static/css/main.73ff0091.css",
+    "static/js/main.f7b4df16.js"
   ]
 }
